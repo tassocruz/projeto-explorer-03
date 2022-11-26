@@ -113,6 +113,11 @@ footer {
     text-align: center;
 }
 
+footer a {
+    color: #7D7987;
+    text-decoration: none;
+}
+
 #footer #line {
     width: 568px;
     height: 0px;
